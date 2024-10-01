@@ -1,2 +1,2 @@
-# MY_PJ
+# my_project
 GITHUB TEST
